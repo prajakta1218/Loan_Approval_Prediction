@@ -6,8 +6,8 @@ import joblib
 st.set_page_config(
     page_title="Loan Approval Predictor",
     page_icon="🏦",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    layout="centered",
+    initial_sidebar_state="collapsed"
 )
 
 # Load model
